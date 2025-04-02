@@ -1,0 +1,6 @@
+IP Local:  
+IP Público: 177.95.142.95 
+Nome da Máquina: DESKTOP-213H6ET 
+Nome do Usuário: Lab22 
+Sistema Operacional: Windows_NT 
+Data e Hora: 01/04/2025 22:17:19,46 
